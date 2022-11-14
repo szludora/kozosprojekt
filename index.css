@@ -1,0 +1,12 @@
+@import url(jobb.css);
+@import url(bal.css);
+@import url(kozep.css);
+@import url(felso.css);
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+}
+
+body {
+  width: 100vw;
+}

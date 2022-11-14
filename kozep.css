@@ -1,0 +1,15 @@
+.kozep {
+  display: grid;
+  background-color: grey;
+  grid-template-rows: 20px auto;
+}
+.kozep-felso {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-template-rows: auto;
+}
+
+.kozep-kozep {
+  display: grid;
+  grid-template-rows: 100px 100px 100px 100px;
+}

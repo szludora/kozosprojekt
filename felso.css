@@ -1,0 +1,7 @@
+.felso {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-column-start: 1;
+  grid-column-end: 15;
+  background-color: red;
+}

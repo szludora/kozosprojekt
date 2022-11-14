@@ -1,0 +1,19 @@
+.grid {
+  display: grid;
+}
+
+.jobb-felso {
+  grid-template-columns: repeat(3, 1fr);
+  display: grid;
+}
+
+.jobb-kozep {
+  display: grid;
+  grid-template-columns: repeat(1, 3fr);
+}
+
+.jobb-also {
+  display: grid;
+  grid-template-columns: 3fr;
+  text-align: center;
+}
